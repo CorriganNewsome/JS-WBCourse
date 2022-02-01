@@ -1,4 +1,4 @@
-#Taking this course at the same time as another JS Course to learn the same topics from different people.
+# Taking this course at the same time as another JS Course to learn the same topics from different people.
 
 ![](https://res.cloudinary.com/wesbos/image/upload/v1574876851/BJS/BJS-Social-Share.png)
 
